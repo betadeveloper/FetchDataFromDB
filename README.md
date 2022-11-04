@@ -1,3 +1,6 @@
+# The project needs quite a bit of work. Reusable components couldn't be properly used because it is a static site, but I tried :D. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
