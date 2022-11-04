@@ -29,6 +29,7 @@ export default function ListPage() {
   );
 }
 
+//Probably not good practice to run JavaScript inside the component file
 const tbody = document.querySelector('tbody');
 let data = {};
 let i = 0;
